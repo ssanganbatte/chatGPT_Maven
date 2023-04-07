@@ -1,0 +1,17 @@
+[
+	{
+		"operation": "shift",
+		"spec": {
+			"workorderid": "woId",
+			"jpnum": "num",
+			"wostatus": "status",
+			"crewId": "crewId",
+			"jobPlan": {
+				"0": {
+					"jobId": "jobId",
+					"jobLocation": "jobLocation"
+				}
+			}
+		}
+	}
+]
